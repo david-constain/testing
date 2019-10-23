@@ -1,3 +1,4 @@
+x = "this was made by computer number2"
 try:
   print(x)
 except NameError:
